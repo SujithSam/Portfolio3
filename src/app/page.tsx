@@ -1,32 +1,25 @@
-
 export default async function Home() {
-
   return (
     <main>
       <section className="home section" id="home">
         <div className="container">
           <div className="intro">
             <img
-              src="/imgs/alsiam.png"
+              src="/imgs/Dp.jpeg"
               alt="Al Siam Profile"
               className="shadow-dark"
             />
-            <h1>Your Name</h1>
-            <p>Your expertise</p>
+            <h1>Sujith Sam Joseph</h1>
+            <p>Full Stack Engineer</p>
             <div className="social-links">
-              <a href="https://twitter.com/" target="_blank">
-                <i className="fa fa-twitter" />
-              </a>
-              <a href="https://facebook.com/" target="_blank">
-                <i className="fa fa-facebook" />
-              </a>
-              <a href="https://github.com/" target="_blank">
+              <a href="https://github.com/SujithSam" target="_blank">
                 <i className="fa fa-github" />
               </a>
-              <a href="https://instagram.com/" target="_blank">
-                <i className="fa fa-instagram" />
-              </a>
-              <a href="https://linkedin.com/in/" target="_blank">
+
+              <a
+                href="https://www.linkedin.com/in/sujith-joseph-85130a1bb/"
+                target="_blank"
+              >
                 <i className="fa fa-linkedin" />
               </a>
             </div>

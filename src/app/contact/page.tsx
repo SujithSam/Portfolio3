@@ -14,19 +14,19 @@ const Contact: NextPage = () => {
             {/* contact-info-item */}
             <div className="contact-info-item padd-15">
               <div className="icon">
-                <i className="fa fa-map-marker" />
+                <i className="fa fa-phone" />
               </div>
-              <h4>Address</h4>
-              <p>Your Address, City</p>
+              <h4>Phone</h4>
+              <p>8921129735</p>
             </div>
             {/* contact-info-item Ended */}
             {/* contact-info-item */}
             <div className="contact-info-item padd-15">
               <div className="icon">
-                <i className="fa fa-phone" />
+                <i className="fa fa-whatsapp" />
               </div>
-              <h4>Call Us On</h4>
-              <p>+99 **********</p>
+              <h4>WhatsApp</h4>
+              <p>8848461225</p>
             </div>
             {/* contact-info-item Ended */}
             {/* contact-info-item */}
@@ -35,12 +35,12 @@ const Contact: NextPage = () => {
                 <i className="fa fa-envelope" />
               </div>
               <h4>Email</h4>
-              <p>your@email.com</p>
+              <p>sujithsam.joseph@gmail.com</p>
             </div>
             {/* contact-info-item Ended */}
           </div>
           {/* Contact Form */}
-          <div className="row">
+          {/* <div className="row">
             <form className="contact-form padd-15">
               <div className="row">
                 <div className="form-item col-6 padd-15">
@@ -92,7 +92,7 @@ const Contact: NextPage = () => {
                 </div>
               </div>
             </form>
-          </div>
+          </div> */}
           {/* Contact Form Ended */}
         </div>
       </section>
